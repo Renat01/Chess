@@ -18,6 +18,7 @@ The game follows standard chess rules, includes a 10 minute timer and displays t
 To run the project, follow these instructions:
 - [Download JDK 17 or higher](https://www.oracle.com/de/java/technologies/downloads/)
 - [Install Git](https://git-scm.com/downloads) (required if cloning the repository)
+- [Download Stockfish](https://stockfishchess.org/download/)(place it in the utilities folder)
 
 # Cloning the repository
 
